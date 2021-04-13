@@ -5,7 +5,7 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 #### **Version Control Tools** :gear:
 
 
-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align=left>
+- <a href="https://github.com/mateuskuritza"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align=left></a>
 
 
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align=left>
@@ -20,7 +20,7 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 #### **OS** 🖥️
 
 
-- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align=left>
+- <p><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align=left></p>
 
 
 - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" align=left>
