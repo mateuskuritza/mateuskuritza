@@ -9,13 +9,13 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 
 
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align=left>
-- 
+
 
 #### **Tools** 🔧
 
 
 - <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align=left>
-- 
+
 
 #### **OS** 🖥️
 
@@ -24,16 +24,16 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 
 
 - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" align=left>
-- 
+
 
 #### **Contatos 👇🏼**
 
 
-* <a href="https://www.linkedin.com/in/mateus-henrique-kuritza-10759b168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/mateus-henrique-kuritza-10759b168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-* <a href="https://www.instagram.com/mateuskuritza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+- <a href="https://www.instagram.com/mateuskuritza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 
 
-* <a href="mailto:mateuskuritza@gmail.com?subject=Hello" style="text-decoration:none;  color: #472F7E;">Me envie um email!</a>
+- <a href="mailto:mateuskuritza@gmail.com?subject=Hello" style="text-decoration:none;  color: #472F7E;">Me envie um email!</a>
 
