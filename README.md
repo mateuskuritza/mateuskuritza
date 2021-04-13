@@ -43,4 +43,4 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskuritza&layout=compact)](https://github.com/mateuskuritza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskuritza&layout=compact&theme=radical)](https://github.com/mateuskuritza/github-readme-stats)
