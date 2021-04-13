@@ -37,3 +37,10 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 
 - <a href="mailto:mateuskuritza@gmail.com?subject=Hello" style="text-decoration:none;  color: #472F7E;">Me envie um email!</a>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuskuritza&show_icons=true&theme=radical)](https://github.com/mateuskuritza/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskuritza&layout=compact)](https://github.com/mateuskuritza/github-readme-stats)
