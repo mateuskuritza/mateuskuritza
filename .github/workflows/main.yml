@@ -25,6 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: Platane/snk@master
         with:
-          github_user_name: platane
+          github_user_name: mateuskuritza
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
