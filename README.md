@@ -2,16 +2,14 @@ Meu nome é Mateus Henrique Kuritza, faço parte da turma 2 do BootCamp Responde
 
 Desde criança completamente apaixonado por tecnologia e ciências no geral! :computer::mag_right::grey_question:
 
-#### **Versionamento** :gear:
+
+#### Ferramentas e linguagens :gear: 🖥️
 
 
 - <a href="https://github.com/mateuskuritza"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align=left></a>
 
 
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align=left>
-
-
-#### **OS** 🖥️
 
 
 - <p><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align=left></p>
