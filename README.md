@@ -24,15 +24,15 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 #### **Contatos 👇🏼**
 
 
-- <a href="https://www.linkedin.com/in/mateus-henrique-kuritza-10759b168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a target="_blank" href="https://www.linkedin.com/in/mateus-henrique-kuritza-10759b168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- <a href="https://api.whatsapp.com/send?phone=5542998043116"><img src="https://cdn.svgporn.com/logos/whatsapp.svg" width="30px"></a>
-
-
-- <a href="https://www.instagram.com/mateuskuritza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+- <a target="_blank" href="https://api.whatsapp.com/send?phone=5542998043116"><img src="https://cdn.svgporn.com/logos/whatsapp.svg" width="30px"></a>
 
 
-- <a href="mailto:mateuskuritza@gmail.com?subject=Hello" style="text-decoration:none;  color: #472F7E;">Me envie um email!</a>
+- <a target="_blank" href="https://www.instagram.com/mateuskuritza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+
+
+- <a tatarget="_blank" href="mailto:mateuskuritza@gmail.com?subject=Hello" style="text-decoration:none;  color: #472F7E;">Me envie um email!</a>
 
 
 
