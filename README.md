@@ -9,7 +9,8 @@ Desde criança completamente apaixonado por tecnologia e ciências no geral! :co
 <br><br/>
 
 ----
-<img src="https://cdn.svgporn.com/logos/react.svg" width="30px" object-fit="cover" align=left> React <br><br/>
+<img src="https://cdn.svgporn.com/logos/react.svg" width="30px" object-fit="cover" align=left> ReactJs <br><br/>
+<img src="https://cdn.svgporn.com/logos/nodejs.svg" width="40px" object-fit="cover" align=left> NodeJs <br><br/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" width="30px" align=left> React Router <br><br/>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" align=left> Javascript <br><br/>
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" align=left> HTML5 <br><br/>
