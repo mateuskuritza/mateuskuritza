@@ -19,7 +19,7 @@ Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus
 <img align="left" alt="TypeScript" width="26px" src="https://image.flaticon.com/icons/png/512/919/919832.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Socket.io" width="26px" src="./socket-io.png" />
+<img align="left" alt="Socket.io" width="26px" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" width="26px" height="26px" />
 <img align="left" alt="Typeorm" width="26px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
