@@ -2,7 +2,7 @@ Oi, eu sou o <strike>Goku</strike> Mateus! 😄. Atualmente faço parte da turma
 
 Desde criança super curioso e apaixonado por tecnologia, ciências e aprender coisas novas! 🧐🔎
 
-Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus próximos passos incluem aprender sobre Docker, me aprofundar em boas práticas e design patterns.
+Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus próximos passos incluem aprender sobre Docker, além de me aprofundar em boas práticas e design patterns.
 
 #### Ferramentas e linguagens :gear: 🖥️
 <a href="https://github.com/mateuskuritza"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align=left></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align=left>
