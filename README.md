@@ -2,7 +2,7 @@ Oi, eu sou o <strike>Goku</strike> Mateus! 😄. Atualmente faço parte da turma
 
 Desde criança super curioso e apaixonado por tecnologia, ciências e aprender coisas novas! 🧐🔎
 
-Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus próximos passos incluem aprender sobre Docker, além de me aprofundar em boas práticas e design patterns.
+Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus próximos passos incluem aprender sobre Docker, me aprofundar em boas práticas e design patterns.
 
 <img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="360px" align="right"/>
 
