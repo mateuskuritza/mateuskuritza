@@ -25,10 +25,10 @@ Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus
 
 <img align="left" alt="Socket.io" width="44px" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png"/>
 <img align="left" alt="Typeorm" width="44px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
-<img align="left" alt="SQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Heroku" width="44px" src="https://cdn.svgporn.com/logos/heroku.svg" />
+<img align="left" alt="Vercel" width="44px" src="https://cdn.svgporn.com/logos/vercel.svg" />
 <img align="left" alt="PostgreSQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Styled-components" width="44px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-<img align="left" alt="Terminal" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
 <br>
