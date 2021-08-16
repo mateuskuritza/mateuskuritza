@@ -1,4 +1,4 @@
-Oi, eu sou o <strike>Goku</strike> Mateus! 😄. Atualmente faço parte da turma 2 do "Bootcamp desenvolvimento web fullstack" da Driven ✔
+Oi, eu sou o <strike>Goku</strike> Mateus! 😄.
 
 Desde criança super curioso e apaixonado por tecnologia, ciências e aprender coisas novas! 🧐🔎
 
