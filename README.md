@@ -20,8 +20,6 @@ Atualmente estudando um pouco sobre computação em nuvem (Focando na AWS). Meus
 <img align="left" alt="TypeScript" width="30px" style="margin:5px;" src="https://image.flaticon.com/icons/png/512/919/919832.png" />
 <img align="left" alt="React" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Socket.io" width="30px" style="margin:5px;" src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png"/>
-<img align="left" alt="Typeorm" width="30px" style="margin:5px;" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
 <img align="left" alt="PostgreSQL" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <br></br>
