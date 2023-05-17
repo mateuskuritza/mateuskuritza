@@ -15,7 +15,7 @@ Desde criança super curioso e apaixonado por tecnologia, ciências e aprender c
 <img align="left" alt="HTML5" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="30px" style="margin:5px;" src="https://icons8.com.br/icon/uJM6fQYqDaZK/typescript" />
+<img align="left" alt="TypeScript" width="30px" style="margin:5px;" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
 <img align="left" alt="React" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PostgreSQL" width="30px" style="margin:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
