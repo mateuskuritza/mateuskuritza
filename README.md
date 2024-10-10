@@ -2,8 +2,6 @@ Oi, eu sou o <strike>Goku</strike> Mateus! 😄.
 
 Desde criança super curioso e apaixonado por tecnologia, ciências e aprender coisas novas! 🧐🔎
 
-<img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="360px" align="right"/>
-
 #### Ferramentas e linguagens :gear: 🖥️
 <img style="margin:5px" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align=left>
 <img style="margin:5px" height="25px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align=left>
@@ -23,8 +21,7 @@ Desde criança super curioso e apaixonado por tecnologia, ciências e aprender c
 <br></br>
 
 
-#### Contatos 👉 <a target="_blank" href="https://api.whatsapp.com/send?phone=5542998043116"><img style="height: 20px; margin: 0 5px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a target="_blank" href="https://www.linkedin.com/in/mateuskuritza/"><img style="height: 20px; margin: 0 5px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a tatarget="_blank" href="mailto:mateuskuritza@gmail.com?subject=Hello world" style="color: #472F7E;">Me envie um email!</a>
+#### Contatos 👉 <a target="_blank" href="https://www.linkedin.com/in/mateuskuritza/"><img style="height: 20px; margin: 0 5px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <details>
   <summary>☕ Linguagens mais utilizadas</summary>
