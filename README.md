@@ -6,6 +6,4 @@ Curioso e apaixonado por tecnologia, ciências e aprender coisas novas! 🧐🔎
 
 <img align="center" alt="Github status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuskuritza&theme=darcula" />
 
-<br></br>
-
 <img align="left" alt="Top linguagens Mateus" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskuritza&theme=gruvbox" />
